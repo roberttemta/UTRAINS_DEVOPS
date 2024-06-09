@@ -1,0 +1,6 @@
+#This file to ignore all file that are here
+bash.sh
+*.terraform
+
+*.tfstate*
+
